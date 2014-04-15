@@ -1,0 +1,5 @@
+bin/
+*.class
+.settings/
+players.dat
+duels.dat
